@@ -17,8 +17,7 @@ Reconhecimento de face utilizando a biblioteca face-recognition
 
 ## Utilização 
 
-<p>Se for utilizar o SO Linux é necessário instalar primeiro : sudo apt install CMake</p>
-<p>Se for utilizar o Windows é necessário baixar e instalar primeiro o Cmake.</p>
+<p>É preciso utilizar o SO Linux e será necessário instalar primeiro : sudo apt install CMake</p>
 
 <p>Para utilização é necessário instalar as bibliotecas com o seguinte comando :</p>
 <p>pip install opencv</p>
